@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(95, 193, 226);
+    font-family: 'Roboto', sans-serif;
+}
+li {
+    display: inline;
+  }
+.text1{
+    font-family: Roboto, Arial, sans-serif;
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 28px;
+
+color: rgb(116, 116, 116);
+}
+  
